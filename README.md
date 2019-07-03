@@ -22,9 +22,6 @@ yarn run build
 
 ![效果图](https://raw.githubusercontent.com/libing-cheer/table-header-tips/master/src/assets/tooltip.png)
 
-### 示例demo代码
-[请点这里](https://github.com/libing-cheer/table-header-tips)
-
 ### 引用 element-ui
 ``` bash
 npm install element-ui
